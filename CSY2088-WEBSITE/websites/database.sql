@@ -195,6 +195,18 @@ UNLOCK TABLES;
 --
 -- Dumping routines for database 'as1'
 --
+
+--
+-- Current Database: `csy2088`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `csy2088` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */;
+
+USE `csy2088`;
+
+--
+-- Dumping routines for database 'csy2088'
+--
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
@@ -205,4 +217,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-01-29 12:32:19
+-- Dump completed on 2024-01-30 14:35:26

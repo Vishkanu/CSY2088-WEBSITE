@@ -18,11 +18,6 @@
             <li><a href="/">Home</a></li>
             <li>Products
                 <ul>
-                    <?php foreach ($categorylinks as $link): ?>
-                        <li><a href="/customer/products?categoryname=<?php echo $link['categoryname'] ?>">
-                                <?php echo $link['categoryname'] ?>
-                            </a></li>
-                    <?php endforeach ?>
                 </ul>
             </li>
             <li><a href='/customer/myquestions'>My Questions</a>
